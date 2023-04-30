@@ -1,3 +1,5 @@
+//                     ------multiplication of 2 numbers------
+
 #include <stdio.h> 
 
 int main()

@@ -1,3 +1,5 @@
+//                             ------Datatypes-----
+
 #include <stdio.h>
 
 int main()
@@ -19,6 +21,7 @@ int main()
     printf("enter any decimal\n");
     scanf("%lf", &D);
     printf("%lf\n", D);
+    
 
     return (0);
 }
