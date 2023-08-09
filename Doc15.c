@@ -34,7 +34,7 @@ void main()
 			printf("Mod of a and b %d",(a%b));
 			break;
 		default:
-			printf("Wrong choice.");
+			printf("Wrong choice");
 		
 	}
 }
