@@ -3,12 +3,19 @@
 
 #include <stdio.h>
 
+// Entry point of the program
 void main()
 {
-	float c,f;
-	printf("Enter Centigrade=");
-	scanf("%f",&c);
-	f=(9*c)/5+32;
-	
-	printf("Fahrenheit=%f",f);
+    // Declare variables for temperature in Celsius and Fahrenheit
+    float c, f;
+
+    // Prompt user to enter temperature in Celsius
+    printf("Enter Centigrade: ");
+    scanf("%f", &c);
+
+    // Convert Celsius to Fahrenheit using the conversion formula
+    f = (9 * c) / 5 + 32;
+
+    // Display the temperature in Fahrenheit
+    printf("Fahrenheit: %f", f);
 }
