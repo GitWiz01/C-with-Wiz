@@ -1,6 +1,6 @@
 # Contributing to C-with-Wiz
 
-👋 Welcome to C-with-Wiz! We are excited that you are interested in contributing to our project. Follow the guidelines below to get started.
+👋 Welcome to C-with-Wiz! We are excited that you are interested in contributing to our project. Follow the guidelines below to get started
 
 ## Table of Contents
 
